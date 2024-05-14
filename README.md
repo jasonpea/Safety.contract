@@ -51,7 +51,4 @@ git push origin new_readme
 git fetch
 git merge origin/main
 ```
-da
-JASON
-hi this is emil
-lollly
+booty butt
