@@ -53,10 +53,5 @@ git merge origin/main
 ```
 booty butt
 ===========
-da 
-JASON
-hi th
-OOGA BOOGA
-s is emil
-lollly
+
 
