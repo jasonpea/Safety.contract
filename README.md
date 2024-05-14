@@ -57,6 +57,5 @@ da
 JASON
 hi th
 OOGA BOOGA
-s is emil
-lollly
+slly
 
