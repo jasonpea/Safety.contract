@@ -1,1 +1,2 @@
-print("monkey");
+print("monkey")
+print("ocean man")
